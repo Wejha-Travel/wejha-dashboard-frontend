@@ -1,0 +1,48 @@
+{
+    "DASHBOARD": {
+        "users": "users",
+        "user": "user",
+        "see_more": "See more"
+    },
+
+    "GENERAL": {
+        "system_name": "System Name",
+        "dashboard": "Dashboard",
+        "sub_menu": {
+            "sub_menu": "sub menu",
+            "all": "all",
+            "add": "add",
+            "edit": "edit"
+        },
+        "logout": "Log out"
+    },
+
+    "VIEW": {
+        "page_title": "Page Title",
+        "error_msg": "Error Message should be here",
+        "success_msg": "Success Message should be here",
+        "search": "Search",
+        "table": {
+            "number": "No",
+            "title": "Title",
+            "actions": "Actions"
+        }
+    },
+
+    "SPECIFIC": {
+        "input_grid": "Input Grid Examples",
+        "other_input_examples": "Other Input Examples",
+        "input": "Input",
+        "select": "select",
+        "upload_file": "upload File",
+        "date": "date",
+        "input_group": "input group",
+        "textarea": "text area",
+        "checkbox_input": "Checkbox input",
+        "radio_input": "radio input",
+        "success": "success",
+        "secondary": "secondary",
+        "success_outline": "success_outline",
+        "secondary_outline": "secondary_outline"
+    }
+}
